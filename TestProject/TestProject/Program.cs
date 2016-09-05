@@ -11,5 +11,10 @@ namespace TestProject
         static void Main(string[] args)
         {
         }
+
+        public static int Test(int x)
+        {
+            return 0;
+        }
     }
 }
